@@ -1,0 +1,23 @@
+{
+  "name": "vk_deletedfriends",
+  "version": "1.0.0",
+  "description": "Уведомляет вас, когда кто-то удаляет вас из друзей",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flittis/VK_DeletedFriends.git"
+  },
+  "author": "Flittis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Flittis/VK_DeletedFriends/issues"
+  },
+  "homepage": "https://github.com/Flittis/VK_DeletedFriends#readme",
+  "dependencies": {
+    "axios": "^0.26.0"
+  }
+}
